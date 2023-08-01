@@ -1,5 +1,4 @@
 ## Hi and Welcome! I'm Luccas
-## Olá e Bem vindos! Eu sou o Luccas
 
 <div>
    <a   href="https://github.com/LuccasMiguel1">
